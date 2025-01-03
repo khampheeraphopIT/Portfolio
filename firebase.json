@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "portfolio-khampheeraphop-cb556",
+    "public": "dist",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
