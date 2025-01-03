@@ -34,3 +34,4 @@
 (https://www.figma.com/proto/y6FCcwjeCfuCat6PTp9L1v/Work-3?node-id=1-2&t=txAnCnfEKNOJjsF3-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
 
 เป็นผลงานที่สามที่ได้รับมอบหมาย ให้เขียนโค้ดสร้าง Website Form Builder ได้ลองสร้าง Slider Pagination ได้สร้างฟังก์ชันที่ไม่เคยได้สร้างมาก่อน และได้ทำเว็บไซต์จริงด้วย TypeScript React และ Material UI
+ # เนื่องจากไม่สามารถให้เข้าดู Website จริงได้ จึงแคปรูปภาพผลลัพธ์ เท่านั้นครับ
