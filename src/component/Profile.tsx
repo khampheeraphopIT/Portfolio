@@ -8,7 +8,7 @@ import GitHubIcon from '../assets/images/github.png';
 
 const Profile = () => {
     return (
-        <div>
+        <Box>
             <CssBaseline />
             <Container maxWidth="xl" sx={{ mt: 4 }}>
                 <Paper elevation={3}>
@@ -28,6 +28,9 @@ const Profile = () => {
                                     </Typography>
                                     <Typography variant="h6" component="div" sx={{ mb: 3, color: '#004d40' }}>
                                         FullStack Developer
+                                    </Typography>
+                                    <Typography variant="h6" component="div" sx={{ mb: 3, color: '#004d40' }}>
+                                        Email poplowplay1@gmail.com
                                     </Typography>
                                 </Box>
                                 <Box sx={{ mt: 2 }}>
@@ -69,7 +72,7 @@ const Profile = () => {
                     </Box>
                 </Paper>
             </Container>
-        </div>
+        </Box>
     );
 };
 
